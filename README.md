@@ -20,12 +20,9 @@ Image classification is one of the most well-known applications of deep learning
   ├── dogs/
   │   ├── dog001.jpg
   ```
-- **Source**: [Kaggle – Dogs vs Cats](https://www.kaggle.com/competitions/dogs-vs-cats/data)
 - **Classes**:  
   - `0` = Cat  
   - `1` = Dog
-
-> ⚠️ Note: The dataset is not included in this repo due to size limits. Download it from Kaggle and place it inside the `dataset/` folder.
 
 ---
 
